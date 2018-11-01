@@ -1,0 +1,6 @@
+framework module ComfirmMangerTest {
+  umbrella header "ComfirmMangerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
